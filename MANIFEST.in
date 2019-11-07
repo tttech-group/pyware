@@ -1,0 +1,4 @@
+include tttech/pyware/html/helppage.template.html
+include docs/*.md
+include docs/samples/*
+include tests/*
